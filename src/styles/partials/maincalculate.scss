@@ -1,0 +1,12 @@
+@import "colours.scss";
+.calculators{
+    background-color: $header_navigation_hover_color;
+    .blocks{
+        height: 30px;
+        width: 60px;
+        background-color: $calculation_blocks_color;
+        border: 2px $calculators_border_color solid;
+
+    }
+
+}
